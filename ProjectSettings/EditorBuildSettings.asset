@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginMap.unity
+    guid: ed2f83cc77f264e4a8364b3b8079f2c4
+  - enabled: 1
+    path: Assets/Scenes/Fac1Edu.unity
+    guid: 84023fc92f885ab43b008b502f649a05
+  - enabled: 1
+    path: Assets/Scenes/UIMap.unity
+    guid: 875488ef6b011db4c82d0e1a87c804cd
+  - enabled: 1
+    path: Assets/Scenes/Fac1Eval.unity
+    guid: d317f4d6a27624a42b342ea82b72844d
+  - enabled: 1
+    path: Assets/Scenes/Fac2Edu.unity
+    guid: 532d4efb0d6029849badea4ba98437fb
+  - enabled: 1
+    path: Assets/Scenes/Fac2Eval.unity
+    guid: 4ab0aab5dc485a84baffff5228251ca1
+  - enabled: 1
+    path: Assets/Scenes/Fac3Edu.unity
+    guid: 927a2b6478ee7af4bb28ac129056de4c
+  - enabled: 1
+    path: Assets/Scenes/Fac3Eval.unity
+    guid: df934076feec96941b5a6b7deaecdd08
+  - enabled: 1
+    path: Assets/Scenes/Fac4Edu.unity
+    guid: 78f44bdb4fd71804d8df15f753999fcd
+  - enabled: 1
+    path: Assets/Scenes/Fac4Eval.unity
+    guid: ec0214a0514fdbc4fb7f3b566c1b730e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3df9215ae884d604283e1ba8b3a22841, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50a42b1b4d56ce94d8ff99b6ebb2d52d, type: 2}
